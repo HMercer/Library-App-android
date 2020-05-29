@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#388E3C</color>
+    <color name="colorPrimaryDark">#326234</color>
+    <color name="colorAccent">#D50000</color>
+
+    <color name="grey">#888888</color>
+
+    <color name="duoOne">#000000</color>
+    <color name="duoTwo">#444444</color>
+
+    <color name="settingsButton">@color/grey</color>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory android:title="Settings">
+
+        <SeekBarPreference
+            android:key="@string/pref_confidence_threshold"
+            android:summary="An image must be classified with at least the specified confidence threshold percentage to be blocked."
+            android:title="Confidence Threshold"
+            android:max="100"
+            app:min="0"
+            app:showSeekBarValue="true"
+            />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

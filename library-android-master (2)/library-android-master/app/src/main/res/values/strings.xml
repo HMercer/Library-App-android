@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Detector</string>
+    <string name="title_activity_main">Detector</string>
+    <string name="pref_confidence_threshold">pref_threshold</string>
+</resources>
